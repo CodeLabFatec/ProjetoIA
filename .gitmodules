@@ -1,0 +1,9 @@
+[submodule "ProjetoIA-Python"]
+	path = ProjetoIA-Python
+	url = https://github.com/CodeLabFatec/ProjetoIA-Python.git
+[submodule "ProjetoIA-Vue"]
+	path = ProjetoIA-Vue
+	url = https://github.com/CodeLabFatec/ProjetoIA-Vue.git
+[submodule "ProjetoIA-Spring"]
+	path = ProjetoIA-Spring
+	url = https://github.com/CodeLabFatec/ProjetoIA-Spring.git
