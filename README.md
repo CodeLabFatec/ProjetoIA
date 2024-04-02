@@ -18,7 +18,7 @@
 
 > **Projeto em desenvolvimento**
 
-<p align="justify"></p>
+<p align="justify">O objetivo desse projeto é criar uma IA capaz de monitorar automaticamente a entrada e saída de pessoas em uma determinada área restrita (Redzone).</p>
 
 <span id="backlog">
 
@@ -42,7 +42,10 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 | Sprint |  Entrega   |       Status       |                  Relatório                  |
 | :----: | :--------: | :----------------: | :-----------------------------------------: |
-|        |            |                    |                                             |
+|   01   | 14/04/2024 | :soon: | -- |
+|   02   | 05/05/2024 | :clock9: | -- |
+|   03   | 26/05/2024 | :clock9: | -- |
+|   04   | 16/06/2024 | :clock9: | -- |
 
 <br />
 
@@ -53,6 +56,12 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 ## 🛠️ Tecnologias
 
 Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execução do projeto:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
 
 <br />
 
