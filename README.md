@@ -28,9 +28,20 @@
 
 Na tabela abaixo é possível visualizar a divisão de tarefas do Backlog por Sprints.
 
-| Sprint | Atividade | Status  | Prioridade |
-| :----: | :-------- | :-----: | :--------: |
-|        |           |         |            |
+| Sprint | Atividade | Prioridade |
+| :----: | :-------- | :--------: |
+| 01 | Pesquisar e juntar dados necessários para o treinamento da IA. | 90 |
+| 01 | Pesquisar e estudar algoritmos de visão computacional e aprendizado de máquina adequados para identificação de pessoas em vídeos. | 80 |
+| 01 | Desenvolver treinamento para a IA ser capaz de identificar e categorizar, corretamente, a entrada e saída de pessoas a partir de vídeos. | 80 |
+| 01 | Configurar um ambiente de desenvolvimento Vue.js para o projeto, incluindo a instalação das dependências necessárias. | 80 |
+| 01 | Pesquisar e estudar as bibliotecas para a implementação do processamento e análise de vídeos. | 70 |
+| 01 | Criar um template padrão no excel para o relatório. | 70 |
+| 01 | Desenvolver a interface para download do relatório seguindo o protótipo. | 50 |
+| 01 | Pesquisar e estudar as melhores práticas de desenvolvimento de interfaces de usuário com Vue.js. | 70 |
+| 01 | Desenvolver função para gerar relatório em Excel. | 60 |
+| 01 | Realizar testes de validação para avaliar a eficácia dos algoritmos desenvolvidos em diferentes cenários de uso. | 60 |
+| 01 | Desenvolver funções para salvar dados coletados pela IA no banco de dados. | 50 |
+| 01 | Realizar testes extensivos da funcionalidade de download do relatório. | 40 |
 
 <br>
 
@@ -60,8 +71,9 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br />
 
