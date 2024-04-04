@@ -28,21 +28,20 @@
 
 Na tabela abaixo é possível visualizar a divisão de tarefas do Backlog por Sprints.
 
-| Sprint | Atividade | Prioridade |
+| Sprint | User Story | Prioridade |
 | :----: | :-------- | :--------: |
-| 01 | Pesquisar e juntar dados necessários para o treinamento da IA. | 90 |
-| 01 | Pesquisar e estudar algoritmos de visão computacional e aprendizado de máquina adequados para identificação de pessoas em vídeos. | 80 |
-| 01 | Desenvolver treinamento para a IA ser capaz de identificar e categorizar, corretamente, a entrada e saída de pessoas a partir de vídeos. | 80 |
-| 01 | Configurar um ambiente de desenvolvimento Vue.js para o projeto, incluindo a instalação das dependências necessárias. | 80 |
-| 01 | Pesquisar e estudar as bibliotecas para a implementação do processamento e análise de vídeos. | 70 |
-| 01 | Criar um template padrão no excel para o relatório. | 70 |
-| 01 | Desenvolver a interface para download do relatório seguindo o protótipo. | 50 |
-| 01 | Pesquisar e estudar as melhores práticas de desenvolvimento de interfaces de usuário com Vue.js. | 70 |
-| 01 | Desenvolver função para gerar relatório em Excel. | 60 |
-| 01 | Realizar testes de validação para avaliar a eficácia dos algoritmos desenvolvidos em diferentes cenários de uso. | 60 |
-| 01 | Desenvolver funções para salvar dados coletados pela IA no banco de dados. | 50 |
-| 01 | Realizar testes extensivos da funcionalidade de download do relatório. | 40 |
-
+| 01 | COMO gerente de segurança, QUERO QUE o sistema seja equipado com uma inteligência artificial capaz de identificar automaticamente a entrada e saída de usuários em áreas de acesso restrito (RedZones), PARA QUE eu possa efetivamente monitorar e gerenciar o fluxo de pessoas em ambientes controlados. | 90 |
+| 01 | COMO gerente de segurança, QUERO QUE o sistema possua uma interface para download do relatório do fluxo de pessoas PARA QUE seja possível, de forma intuitiva, a realização do download de uma planilha contendo os dados coletados e analisados pela IA. | 70 |
+| 02 | COMO administrador, QUERO QUE o sistema possua cadastro, listagem e edição de áreas restritas com suas respectivas RedZones, PARA QUE seja possível criar uma divisão dentro do sistema, permitindo que haja análises de IA salvando informações específicas para cada RedZone. | 80 |
+| 02 | COMO usuário, QUERO um dashboard que exiba os principais indicadores de acesso nas RedZones por períodos específicos, PARA QUE eu possa visualizar facilmente o desempenho do sistema ao longo do tempo. | 70 |
+| 03 | COMO usuário, QUERO a capacidade de gerar relatórios personalizados com base nos dados de acesso nas RedZones PARA QUE eu possa compartilhar informações relevantes com outras partes interessadas. | 60 |
+| 03 | COMO usuário, QUERO filtros de período que me permitam analisar os dados de acesso nas RedZones de forma flexível, como por dia, semana, mês ou período personalizado, PARA QUE eu possa realizar análises detalhadas conforme necessário. | 50 |
+| 04 | COMO administrador, QUERO QUE o sistema possua cadastro, listagem e edição de usuários, PARA QUE tenha a possibilidade de multiplos acessos  ao sistema. | 50 |
+| 04 | COMO administrador, QUERO QUE o sistema possua divisão de cargos de permissão, PARA QUE seja possível controlar o acesso a interface e a ações de cada usuário. | 40 |
+| 04 | COMO usuário, QUERO um processo de autenticação seguro PARA QUE eu possa acessar o sistema de forma protegida. | 40 |
+| 04 | COMO usuário, QUERO ter acesso a um manual detalhado que explique todas as funcionalidades e recursos do sistema, PARA QUE eu possa utilizá-lo de forma eficaz e aproveitar ao máximo suas capacidades. | 20 |
+| 04 | COMO usuário, QUERO um guia passo a passo que me oriente na instalação e configuração do sistema, PARA QUE eu possa implantá-lo facilmente em meu ambiente de trabalho. | 20
+ 
 <br>
 
 <span id="relatório">
