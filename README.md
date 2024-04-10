@@ -20,6 +20,10 @@
 
 <p align="justify">O objetivo desse projeto é criar uma IA capaz de monitorar automaticamente a entrada e saída de pessoas em uma determinada área restrita (Redzone).</p>
 
+<br />
+
+As branches e commits desse projeto seguem o seguinte padrão estabelecido pelo [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/) e com exemplos de utilização detalhados [neste repositório](https://github.com/iuricode/padroes-de-commits).
+
 <span id="backlog">
 
 <br>
