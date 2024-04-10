@@ -52,7 +52,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 | Sprint |  Entrega   |       Status       |                  Relatório                  |
 | :----: | :--------: | :----------------: | :-----------------------------------------: |
-|   01   | 14/04/2024 | :soon: | -- |
+|   01   | 14/04/2024 | :soon: | [ver relatório](/docs/relatorioSprint-1.md) |
 |   02   | 05/05/2024 | :clock9: | -- |
 |   03   | 26/05/2024 | :clock9: | -- |
 |   04   | 16/06/2024 | :clock9: | -- |
