@@ -22,6 +22,8 @@
 
 <br />
 
+> Estratégia de branches e commits
+
 As branches e commits desse projeto seguem o seguinte padrão estabelecido pelo [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/) e com exemplos de utilização detalhados [neste repositório](https://github.com/iuricode/padroes-de-commits).
 
 <span id="backlog">
@@ -36,9 +38,10 @@ Na tabela abaixo é possível visualizar a divisão de tarefas do Backlog por Sp
 | :----: | :-------- | :--------: |
 | 01 | COMO gerente de segurança, QUERO QUE o sistema seja equipado com uma inteligência artificial capaz de identificar automaticamente a entrada e saída de usuários em áreas de acesso restrito (RedZones), PARA QUE eu possa efetivamente monitorar e gerenciar o fluxo de pessoas em ambientes controlados. | 90 |
 | 01 | COMO gerente de segurança, QUERO QUE o sistema possua uma interface para download do relatório do fluxo de pessoas PARA QUE seja possível, de forma intuitiva, a realização do download de uma planilha contendo os dados coletados e analisados pela IA. | 70 |
-| 02 | COMO administrador, QUERO QUE o sistema possua cadastro, listagem e edição de áreas restritas com suas respectivas RedZones, PARA QUE seja possível criar uma divisão dentro do sistema, permitindo que haja análises de IA salvando informações específicas para cada RedZone. | 80 |
+| 02 | COMO administrador, QUERO QUE o sistema possua cadastro, listagem e edição de RedZones, PARA QUE seja possível criar uma divisão dentro do sistema, permitindo que haja análises de IA salvando informações específicas para cada RedZone. | 80 |
 | 02 | COMO usuário, QUERO um dashboard que exiba os principais indicadores de acesso nas RedZones por períodos específicos, PARA QUE eu possa visualizar facilmente o desempenho do sistema ao longo do tempo. | 70 |
-| 03 | COMO usuário, QUERO a capacidade de gerar relatórios personalizados com base nos dados de acesso nas RedZones PARA QUE eu possa compartilhar informações relevantes com outras partes interessadas. | 60 |
+| 02 | COMO usuário, QUERO a capacidade de gerar relatórios personalizados com base nos dados de acesso nas RedZones PARA QUE eu possa compartilhar informações relevantes com outras partes interessadas. | 60 |
+| 03 | COMO administrador, QUERO QUE o sistema possua cadastro, listagem e edição de áreas restritas, vinculando com suas respectivas RedZones PARA QUE seja possível criar uma divisão dentro do sistema, possibilitando a existência de diferentes níveis de acessos. | 60 |
 | 03 | COMO usuário, QUERO filtros de período que me permitam analisar os dados de acesso nas RedZones de forma flexível, como por dia, semana, mês ou período personalizado, PARA QUE eu possa realizar análises detalhadas conforme necessário. | 50 |
 | 04 | COMO administrador, QUERO QUE o sistema possua cadastro, listagem e edição de usuários, PARA QUE tenha a possibilidade de multiplos acessos  ao sistema. | 50 |
 | 04 | COMO administrador, QUERO QUE o sistema possua divisão de cargos de permissão, PARA QUE seja possível controlar o acesso a interface e a ações de cada usuário. | 40 |
