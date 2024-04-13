@@ -5,8 +5,7 @@
 <p align="center">
     <a href="#mvp">MVP</a> | 
     <a href="#DOR">DOR</a> |
-    <a href="#entrega">Entrega(DOD)</a> | 
-    <a href="#burndown">Burndown</a> | 
+    <a href="#entrega">Entrega(DOD)</a>
 </p>
 <span id="mvp">
  
@@ -51,11 +50,12 @@ COMO gerente de segurança, QUERO QUE o sistema possua uma interface para downlo
 ## 👩‍💻 Entrega
 <p align="center">
 
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/b5afeb08-b09b-4299-91e5-d947d4096e13
+
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/7c4fe701-741c-4c8f-8cc9-7c89e986cfad
+
 </p>
 
-<span id="burndown">
-
-## 📉 Burndown
 
 <br>
 

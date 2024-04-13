@@ -59,14 +59,23 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 | Sprint |  Entrega   |       Status       |                  Relatório                  |
 | :----: | :--------: | :----------------: | :-----------------------------------------: |
-|   01   | 14/04/2024 | :soon: | [ver relatório](/docs/relatorioSprint-1.md) |
-|   02   | 05/05/2024 | :clock9: | -- |
+|   01   | 14/04/2024 | :heavy_check_mark: | [ver relatório](/docs/relatorioSprint-1.md) |
+|   02   | 05/05/2024 | :soon: | -- |
 |   03   | 26/05/2024 | :clock9: | -- |
 |   04   | 16/06/2024 | :clock9: | -- |
 
 <br />
 
 ## :medal_sports: Entregas
+
+#### Entrega da Sprint 1 (14/04/2024)
+
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/b5afeb08-b09b-4299-91e5-d947d4096e13
+
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/7c4fe701-741c-4c8f-8cc9-7c89e986cfad
+
+
+<br />
 
 <span id="tecnologias">
 
