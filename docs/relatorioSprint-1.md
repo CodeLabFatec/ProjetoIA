@@ -4,7 +4,9 @@
 
 <p align="center">
     <a href="#mvp">MVP</a> | 
+    <a href="#backlog">Backlog Sprint</a> |
     <a href="#DOR">DOR</a> |
+    <a href="#dados">Dados para IA</a> |
     <a href="#entrega">Entrega(DOD)</a>
 </p>
 <span id="mvp">
@@ -12,16 +14,27 @@
 <h1> :dart: MVP </h1>
 <p align="justify">O MVP da primeira entrega foi o desenvolvimento da IA capaz de monitorar a entrada e saída de pessoas de dentro de RedZones e a exportação do excel com os dados capturados.</p>
 
+<span id="backlog">
+
+## 📃 Backlog da Sprint
+
+| Rank | Prioridade | User Story | Estimativa | Sprint | Requisito |
+| :----: | :-------- | :-------- | :----: | :---: | :----: |
+| 01 | Alta | COMO gerente de segurança, QUERO QUE o sistema seja equipado com uma inteligência artificial capaz de identificar automaticamente a entrada e saída de usuários em áreas de acesso restrito (RedZones), PARA QUE eu possa efetivamente monitorar e gerenciar o fluxo de pessoas em ambientes controlados. | 90 | 01 | RF-5 |
+| 02 | Alta | COMO gerente de segurança, QUERO QUE o sistema possua uma interface para download do relatório do fluxo de pessoas PARA QUE seja possível, de forma intuitiva, a realização do download de uma planilha contendo os dados coletados e analisados pela IA. | 70 | 01 | RF-7 |
+
+
 <span id="DOR"> 
   
 ## 📌 DOR
 
 <p align="justify">
 
-  ### 📄 Critérios de aceitação
+  ### 📄 User stories e Critérios de aceitação
 
-COMO gerente de segurança, QUERO QUE o sistema seja equipado com uma inteligência artificial capaz de identificar automaticamente a entrada e saída de usuários em áreas de acesso restrito (RedZones), PARA QUE eu possa efetivamente monitorar e gerenciar o fluxo de pessoas em ambientes controlados.
+US #1: COMO gerente de segurança, QUERO QUE o sistema seja equipado com uma inteligência artificial capaz de identificar automaticamente a entrada e saída de usuários em áreas de acesso restrito (RedZones), PARA QUE eu possa efetivamente monitorar e gerenciar o fluxo de pessoas em ambientes controlados.
 
+Critérios de aceitação:
 
 - O sistema deve ser capaz de identificar automaticamente a entrada e saída de usuários em áreas de acesso restrito (RedZones) com uma precisão mínima de 75%.
 
@@ -31,7 +44,9 @@ COMO gerente de segurança, QUERO QUE o sistema seja equipado com uma inteligên
 
 - Os dados de entrada e saída de pessoas devem ser armazenados de forma segura e confiável no banco de dados do sistema.
 
-COMO gerente de segurança, QUERO QUE o sistema possua uma interface para download do relatório do fluxo de pessoas PARA QUE seja possível, de forma intuitiva, a realização do download de uma planilha contendo os dados coletados e analisados pela IA.
+US #2: COMO gerente de segurança, QUERO QUE o sistema possua uma interface para download do relatório do fluxo de pessoas PARA QUE seja possível, de forma intuitiva, a realização do download de uma planilha contendo os dados coletados e analisados pela IA.
+
+Critérios de aceitação:
 
 -  A interface de download do relatório deve ser facilmente acessível a partir da página principal do sistema.
   
@@ -44,6 +59,20 @@ COMO gerente de segurança, QUERO QUE o sistema possua uma interface para downlo
 > [Link para protótipo no figma](https://www.figma.com/proto/7pXrAvYbVSbmm7yi5WDiXM/API-6---Altave?type=design&scaling=min-zoom&page-id=0%3A1&node-id=12-102&starting-point-node-id=12%3A102&show-proto-sidebar=1)
   
 </p>
+
+<br />
+
+<span id="dados">
+
+## :floppy_disk: Dados para IA
+
+<p align="justify">
+ 
+ Para essa entrega, os dados que utilizados para construção da IA que monitora o fluxo de entrada e pessoas de uma determinada área restrita estão disponíveis na biblioteca [YOLO](https://docs.ultralytics.com/pt), em que utilizados como uma facilitadora devido a sua excelência em detecção de objetos e pessoas em tempo real.
+
+</p>
+
+<br />
 
 <span id="entrega">
  
