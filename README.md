@@ -45,9 +45,9 @@ Na tabela abaixo é possível visualizar o backlog total do produto desenvolvido
 | 07 | Média |COMO administrador, QUERO QUE o sistema possua cadastro, listagem e edição de áreas restritas, vinculando com suas respectivas RedZones PARA QUE seja possível criar uma divisão dentro do sistema, possibilitando a existência de diferentes níveis de acessos. | 60 | 03 | RF-6 | 
 | 08 | Média | COMO administrador, QUERO QUE o sistema possua cadastro, listagem e edição de usuários, PARA QUE tenha a possibilidade de multiplos acessos  ao sistema. | 50 | 04 | RF-6 |
 | 09 | Média | COMO administrador, QUERO QUE o sistema possua divisão de cargos de permissão, PARA QUE seja possível controlar o acesso a interface e a ações de cada usuário. | 40 | 04 | RF-6 |
-| 04 | Baixa | COMO usuário, QUERO um processo de autenticação seguro PARA QUE eu possa acessar o sistema de forma protegida. | 40 | 04 | RF-1 |
-| 04 | Baixa | COMO usuário, QUERO ter acesso a um manual detalhado que explique todas as funcionalidades e recursos do sistema, PARA QUE eu possa utilizá-lo de forma eficaz e aproveitar ao máximo suas capacidades. | 20 | 04 | RNF-1 |
-| 04 | Baixa | COMO usuário, QUERO um guia passo a passo que me oriente na instalação e configuração do sistema, PARA QUE eu possa implantá-lo facilmente em meu ambiente de trabalho. | 20 | 04 | RNF-3 |
+| 10 | Baixa | COMO usuário, QUERO um processo de autenticação seguro PARA QUE eu possa acessar o sistema de forma protegida. | 40 | 04 | RF-1 |
+| 11 | Baixa | COMO usuário, QUERO ter acesso a um manual detalhado que explique todas as funcionalidades e recursos do sistema, PARA QUE eu possa utilizá-lo de forma eficaz e aproveitar ao máximo suas capacidades. | 20 | 04 | RNF-1 |
+| 12 | Baixa | COMO usuário, QUERO um guia passo a passo que me oriente na instalação e configuração do sistema, PARA QUE eu possa implantá-lo facilmente em meu ambiente de trabalho. | 20 | 04 | RNF-3 |
  
 <br>
 
@@ -60,7 +60,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 | Sprint |  Entrega   |       Status       |                  Relatório                  |
 | :----: | :--------: | :----------------: | :-----------------------------------------: |
 |   01   | 14/04/2024 | :heavy_check_mark: | [ver relatório](/docs/relatorioSprint-1.md) |
-|   02   | 05/05/2024 | :soon: | -- |
+|   02   | 05/05/2024 | :soon: | [ver relatório](/docs/relatorioSprint-2.md) |
 |   03   | 26/05/2024 | :clock9: | -- |
 |   04   | 16/06/2024 | :clock9: | -- |
 
