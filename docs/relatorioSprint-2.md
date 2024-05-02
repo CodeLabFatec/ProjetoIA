@@ -67,6 +67,10 @@ Critérios de aceitação:
  ### 🖥️ Protótipo navegável
 
 > [Link para protótipo no figma](https://www.figma.com/proto/7pXrAvYbVSbmm7yi5WDiXM/API-6---Altave?type=design&scaling=min-zoom&page-id=0%3A1&node-id=12-102&starting-point-node-id=12%3A102&show-proto-sidebar=1)
+
+### 📋 Modelo de Entidade-Relacionamento (MER)
+
+![DER](https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/f60a3205-2171-41ed-b34f-ed71dfbd6175)
   
 </p>
 
