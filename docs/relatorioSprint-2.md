@@ -91,7 +91,10 @@ Critérios de aceitação:
 <span id="entrega">
  
 ## 👩‍💻 Entrega
+
 <p align="center">
+
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/1da50ae4-1f56-4504-b656-29433163427d
 
 </p>
 
