@@ -2,7 +2,7 @@
 
 <h1 align="center">Projeto IA</h1>
 
-> **Projeto Integrador 6º Semestre ADS - 2023**
+> **Projeto Integrador 6º Semestre ADS - 2024**
 
 <p align="center">
     <a href="#objetivo">Informações & Objetivo</a> |
@@ -42,12 +42,13 @@ Na tabela abaixo é possível visualizar o backlog total do produto desenvolvido
 | 04 | Média | COMO usuário, QUERO um dashboard que exiba os principais indicadores de acesso nas RedZones por períodos específicos, PARA QUE eu possa visualizar facilmente o desempenho do sistema ao longo do tempo. | 70 | 02 | RF-2 |
 | 05 | Média | COMO usuário, QUERO a capacidade de gerar relatórios personalizados com base nos dados de acesso nas RedZones PARA QUE eu possa compartilhar informações relevantes com outras partes interessadas. | 60 | 02 | RF-4 |
 | 06 | Média | COMO usuário, QUERO filtros de período que me permitam analisar os dados de acesso nas RedZones de forma flexível, como por dia, semana, mês ou período personalizado, PARA QUE eu possa realizar análises detalhadas conforme necessário. | 50 | 03 | RF-3 |
-| 07 | Média |COMO administrador, QUERO QUE o sistema possua cadastro, listagem e edição de áreas restritas, vinculando com suas respectivas RedZones PARA QUE seja possível criar uma divisão dentro do sistema, possibilitando a existência de diferentes níveis de acessos. | 60 | 03 | RF-6 | 
-| 08 | Média | COMO administrador, QUERO QUE o sistema possua cadastro, listagem e edição de usuários, PARA QUE tenha a possibilidade de multiplos acessos  ao sistema. | 50 | 04 | RF-6 |
-| 09 | Média | COMO administrador, QUERO QUE o sistema possua divisão de cargos de permissão, PARA QUE seja possível controlar o acesso a interface e a ações de cada usuário. | 40 | 04 | RF-6 |
-| 10 | Baixa | COMO usuário, QUERO um processo de autenticação seguro PARA QUE eu possa acessar o sistema de forma protegida. | 40 | 04 | RF-1 |
-| 11 | Baixa | COMO usuário, QUERO ter acesso a um manual detalhado que explique todas as funcionalidades e recursos do sistema, PARA QUE eu possa utilizá-lo de forma eficaz e aproveitar ao máximo suas capacidades. | 20 | 04 | RNF-1 |
-| 12 | Baixa | COMO usuário, QUERO um guia passo a passo que me oriente na instalação e configuração do sistema, PARA QUE eu possa implantá-lo facilmente em meu ambiente de trabalho. | 20 | 04 | RNF-3 |
+| 07 | Média | COMO administrador, QUERO QUE o sistema possua cadastro, listagem e edição de áreas restritas, vinculando com suas respectivas RedZones PARA QUE seja possível criar uma divisão dentro do sistema, possibilitando a existência de diferentes níveis de acessos. | 60 | 03 | RF-6 | 
+| 08 | Média | COMO gerente de segurança, QUERO QUE a inteligência artificial seja aprimorada para cubrir diferentes cenários de interação de pessoas, PARA QUE o monitoramento correto do fluxo de pessoas de uma RedZone esteja eficaz. | 70 | 03 | RF-5 |
+| 09 | Média | COMO administrador, QUERO QUE o sistema possua cadastro, listagem e edição de usuários, PARA QUE tenha a possibilidade de multiplos acessos  ao sistema. | 50 | 04 | RF-6 |
+| 10 | Média | COMO administrador, QUERO QUE o sistema possua divisão de cargos de permissão, PARA QUE seja possível controlar o acesso a interface e a ações de cada usuário. | 40 | 04 | RF-6 |
+| 11 | Baixa | COMO usuário, QUERO um processo de autenticação seguro PARA QUE eu possa acessar o sistema de forma protegida. | 40 | 04 | RF-1 |
+| 12 | Baixa | COMO usuário, QUERO ter acesso a um manual detalhado que explique todas as funcionalidades e recursos do sistema, PARA QUE eu possa utilizá-lo de forma eficaz e aproveitar ao máximo suas capacidades. | 20 | 04 | RNF-1 |
+| 13 | Baixa | COMO usuário, QUERO um guia passo a passo que me oriente na instalação e configuração do sistema, PARA QUE eu possa implantá-lo facilmente em meu ambiente de trabalho. | 20 | 04 | RNF-3 |
  
 <br>
 
@@ -61,7 +62,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 | :----: | :--------: | :----------------: | :-----------------------------------------: |
 |   01   | 14/04/2024 | :heavy_check_mark: | [ver relatório](/docs/relatorioSprint-1.md) |
 |   02   | 05/05/2024 | :heavy_check_mark: | [ver relatório](/docs/relatorioSprint-2.md) |
-|   03   | 26/05/2024 | :soon: | -- |
+|   03   | 26/05/2024 | :soon: | [ver relatório](/docs/relatorioSprint-3.md) |
 |   04   | 16/06/2024 | :clock9: | -- |
 
 <br />
@@ -78,6 +79,9 @@ https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/7c4fe701-741c-4c8f-8cc
 #### Entrega da Sprint 2 (05/05/2024)
 
 https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/1da50ae4-1f56-4504-b656-29433163427d
+
+
+#### Entrega da Sprint 4 (26/05/2024)
 
 
 <br />
