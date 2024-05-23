@@ -75,7 +75,28 @@ Critérios de aceitação:
 
 <p align="justify">
  
- Para essa entrega, os dados que utilizados para construção da IA que monitora o fluxo de entrada e pessoas de uma determinada área restrita estão disponíveis na biblioteca [YOLO](https://docs.ultralytics.com/pt), em que utilizados como uma facilitadora devido a sua excelência em detecção de objetos e pessoas em tempo real.
+ Na entrega dessa sprint, optamos por treinar um modelo de dados para aplicar em nossa aplicação de IA. Para isso utilizamos uma base de dados pública gratuíta fornecida pelo RoboFlow, focada em track de pessoas. Essa base está disponível no seguinte [link](https://universe.roboflow.com/leo-ueno/people-detection-o4rdr/dataset/8). O treinamento foi feito utilizando a biblioteca [YOLO](https://docs.ultralytics.com/pt), que fornece métodos para, a partir de uma base de dados, treinar um modelo de detecção de objetos/pessoas. O código abaixo é para exemplificar uma forma de realizar tal treinamento:
+
+ ```python
+from ultralytics import YOLO
+
+model = YOLO()
+
+results = model.train(data='data.yaml', epochs=5, imgsz=640, deterministic=True)
+```
+
+Ao realizar o treinamento, obtivemos os seguintes resultados:
+
+ ![results](https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/037dc928-8b6f-4fb9-a949-6d7911889083)
+
+Além do treinamento, também entregamos nessa sprint vídeos exemplificando como a aplicação desenvolvida está se comportando em cenários diferentes dos utilizados nas entregas anteriores. Dessa vez trabalhamos com diferente angulação e posicionamento de câmera, além de um cenário em que a pessoa fica parada na entrada (porta), mas não entra de fato na área. Esses vídeos estão disponíveis abaixo:
+
+
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/1d845636-c53b-48eb-b913-9b92db1df9a7
+
+
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/3ab33dc5-2e9f-46d1-ad47-5437b785e57d
+
 
 </p>
 
