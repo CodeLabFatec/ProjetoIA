@@ -108,6 +108,9 @@ https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/3ab33dc5-2e9f-46d1-ad4
 
 <p align="center">
 
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/88175ff0-7b3b-4269-8c8b-be6a6094122b
+
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/6672e903-b83f-49e7-9f34-249617f92f08
 
 </p>
 
