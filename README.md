@@ -63,7 +63,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 |   01   | 14/04/2024 | :heavy_check_mark: | [ver relatório](/docs/relatorioSprint-1.md) |
 |   02   | 05/05/2024 | :heavy_check_mark: | [ver relatório](/docs/relatorioSprint-2.md) |
 |   03   | 26/05/2024 | :heavy_check_mark: | [ver relatório](/docs/relatorioSprint-3.md) |
-|   04   | 16/06/2024 | :soon: | -- |
+|   04   | 16/06/2024 | :soon: | [ver relatório](/docs/relatorioSprint-4.md) |
 
 <br />
 
