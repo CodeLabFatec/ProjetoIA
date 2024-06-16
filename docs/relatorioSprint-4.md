@@ -94,6 +94,7 @@ Critérios de aceitação:
 
 ### 📋 Modelo de Entidade-Relacionamento (MER)
 
+![mer](https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/efebc6d8-5353-437d-8ada-22e362263dec)
   
 </p>
 
