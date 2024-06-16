@@ -150,6 +150,7 @@ https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/4c4bc248-2616-4223-a8d
 
 </p>
 
+### Você pode acessar o manual do usuário acessando esse [Link](/docs/MANUAL%20DO%20USUÁRIO.pdf)
 
 <br>
 
