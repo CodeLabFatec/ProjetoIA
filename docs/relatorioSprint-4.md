@@ -101,32 +101,39 @@ Critérios de aceitação:
 
 <span id="dados">
 
-## :floppy_disk: Dados para IA
+## :floppy_disk: Detalhes da IA
 
 <p align="justify">
  
- Na entrega da sprint anterior, treinamos um modelo de dados para aplicar em nossa aplicação de IA. Para isso utilizamos uma base de dados pública gratuíta fornecida pelo RoboFlow, focada em track de pessoas. Essa base está disponível no seguinte [link](https://universe.roboflow.com/leo-ueno/people-detection-o4rdr/dataset/8). O treinamento foi feito utilizando a biblioteca [YOLO](https://docs.ultralytics.com/pt), que fornece métodos para, a partir de uma base de dados, treinar um modelo de detecção de objetos/pessoas. O código abaixo é para exemplificar uma forma de realizar tal treinamento:
+O projeto entregue possui uma IA (inteligência artifical) com o objetivo de monitorar e identificar a entrada e saída de pessoas em uma determinada área restrita (chamada de redzone). Essa aplicação foi desenvolvida com a biblioteca [YOLO](https://docs.ultralytics.com/pt), que é altamente utilizada como um modelo de detecção de objetos e pessoas em imagens/vídeos em tempo real. Escolhemos utilizar essa biblioteca por conta de sua detecção feita em tempo real, analisando a imagem inteira de uma vez só, o que garante a eficácia necessária para atingirmos o objetivo do projeto.
 
- ```python
-from ultralytics import YOLO
-
-model = YOLO()
-
-results = model.train(data='data.yaml', epochs=5, imgsz=640, deterministic=True)
-```
+Utililizamos o YOLO para treinar uma base de dados pública fornecida pelo [RoboFlow](https://universe.roboflow.com/leo-ueno/people-detection-o4rdr/dataset/8), que foi escolhida por conta de sua diversidade de cenários, que possui diversas situações e ambientes que facilitam o treinamento para cenários distintos, como diferentes angulações, iluminação e contextos, também a escolhemos por possuir um formato compátivel com o YOLO, facilitando o processo de integração com a biblioteca.
 
 Ao realizar o treinamento, obtivemos os seguintes resultados:
 
  ![results](https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/037dc928-8b6f-4fb9-a949-6d7911889083)
 
-Além do treinamento, também entregamos na sprint anterior vídeos exemplificando como a aplicação desenvolvida está se comportando em cenários diferentes dos utilizados nas entregas anteriores. Dessa vez trabalhamos com diferente angulação e posicionamento de câmera, além de um cenário em que a pessoa fica parada na entrada (porta), mas não entra de fato na área. Esses vídeos estão disponíveis abaixo:
+Para garantirmos que o monitoramento está adequado para o projeto, gravamos e utilizamos os seguintes cenários para simular sua eficácia em ambientes que emulam o objetivo do projeto.
 
+. Cenário genérico em que uma pessoa entra na sala restrita:
+
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/3aeb1aee-2075-48ac-a9ff-db2c56b10683
+
+. Cenário em que uma pessoa entrada na sala restrita, mas vindo de costas/lado:
+
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/6e101563-2040-424b-9b53-89830b959504
+
+. Cenário em que a pessoa entra na sala restrita, mas gravado em diferente angulação dos vídeos anteriores:
 
 https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/1d845636-c53b-48eb-b913-9b92db1df9a7
 
+. Cenário na qual a pessoa passa pela porta (entrada) mas não entra na sala restrita:
 
 https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/3ab33dc5-2e9f-46d1-ad47-5437b785e57d
 
+Com os cenários ilustrados acima, obtivemos os seguintes resultados de eficácia de nossa aplicação:
+
+![acuracia_cenarios](https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/84529855-d9cc-4c0a-a235-c4d13fae93b1)
 
 </p>
 
@@ -138,7 +145,7 @@ https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/3ab33dc5-2e9f-46d1-ad4
 
 <p align="center">
 
-
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/4c4bc248-2616-4223-a8d7-1e7209b8bb07
 
 </p>
 

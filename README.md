@@ -90,6 +90,8 @@ https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/6672e903-b83f-49e7-9f3
 
 #### Entrega da Sprint 4 (16/06/2024)
 
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/4c4bc248-2616-4223-a8d7-1e7209b8bb07
+
 <br />
 
 <span id="tecnologias">
